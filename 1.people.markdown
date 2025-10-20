@@ -16,4 +16,10 @@ permalink: /people/
    description="Asanka is currently serving as a senior lecturer at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Hardware Security, and Side-Channel Analysis. He contributes to the SCoRe lab since 2010 in various capacities, and currently leading its administration."
 %}
 
+{% include bio.html
+   photo="/assets/images/people/chathura.jpg"
+   name="Mr. Chathura Prasan Suduwella"
+   description="Chathura is currently serving as a scientific assistant at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Number Theory, Embedded Systems, Visible Light Communication, and File Systems. He contributes to the SCoRe lab in various capacities."
+%}
+
 
