@@ -4,15 +4,16 @@ title: People
 permalink: /people/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{% include bio.html
+   photo="/assets/images/people/kasun.jpg"
+   name="Prof. Kasun de Zoysa "
+   description="Kasun is currently serves as the deputy director as well as the head of research at University of Colombo School of Computing, Sri Lanka. His research interests include Information Security, Cryptography, Digital Forensic, ICT4D, and 5G. He is the founder of the SCoRe lab, as well as its predecessor WASN lab at UCSC."
+%}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include bio.html
+   photo="/assets/images/people/asanka.jpg"
+   name="Dr. Asanka P. Sayakkara"
+   description="Asanka is currently serving as a senior lecturer at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Hardware Security, and Side-Channel Analysis. He contributes to the SCoRe lab since 2010 in various capacities, and currently leading its administration."
+%}
 
 
-[jekyll-organization]: https://github.com/jekyll
