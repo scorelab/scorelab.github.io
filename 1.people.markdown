@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+<b>Current Members</b>
+
 {% include bio.html
    photo="/assets/images/people/kasun.jpg"
    name="Prof. Kasun de Zoysa "
@@ -22,4 +24,56 @@ permalink: /people/
    description="Chathura is currently serving as a scientific assistant at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Number Theory, Embedded Systems, Visible Light Communication, and File Systems. He contributes to the SCoRe lab in various capacities."
 %}
 
+<b>Former Members</b>
+
+<style>
+.name-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+.name-grid li {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 6px;
+}
+</style>
+
+<ul class="name-grid">
+ <li>Dr. Chamath Keppitiyagama </li>
+ <li>Mr. Mahendra Laxaman</li>
+ <li>Mr. Kenneth Thilakarathna </li>
+ <li>Dr. Sameera Horawalavithana </li>
+ <li>Dr. Dinuni Fernando </li>
+ <li>Prof. Darshana Lakmal Weerawarne </li>
+ <li>Ms. Yasantha Hettiarachchi </li>
+ <li>Mr. Vijitha Ekanayake </li>
+ <li>Mr. Tharindu Nanayakkara </li>
+ <li>Ms. Sumali Jayasinghe </li>
+ <li>Mr. Poshitha Dabare </li>
+ <li>Mr. Manula Waidyanatha </li>
+ <li>Mr. Kasun Perera </li>
+ <li>Dr. Kasun Hewage </li>
+ <li>Dr. Girisha De Silva </li>
+ <li>Mr. Eranga Bandara </li>
+ <li>Ms. Chamika Hasanthi </li>
+ <li>Dr. Buddhika Priyasad </li>
+ <li>Mr. Yasith Lokuge </li>
+ <li>Mr. Prabhash Kumarasinghe </li>
+ <li>Dr. Namal Jayasuriya </li>
+ <li>Ms. Akarshani Amarasinghe </li>
+ <li>Dr. Lasith Niroshan </li>
+ <li>Dr. Primal Wijesekera </li>
+ <li>Dr. Kasun Gunawardana </li>
+ <li>Mr. Charith Elvitigala </li>
+ <li>Mr. Oshan Mudannayake </li>
+ <li>Ms. Vinuri Bandara </li>
+ <li>Mr. Nipuna Weerasekara </li>
+ <li>Mr. Ravindu De Silva </li>
+ <li>Mr. Malith Senaweera </li>
+</ul>
 
