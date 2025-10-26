@@ -30,6 +30,12 @@ permalink: /people/
    description="Akila is a PhD researcher in Digital Forensics at University College Dublin. His work focuses on integrating AI for digital forensic investigations.  His research interests are digital forensics and hardware security."
 %}
 
+{% include bio.html
+   photo="/assets/images/people/udayanga.jpeg"
+   name="Mr. Udayanga Sampath"
+   description="Udayanga Sampath is a PhD researcher at the Ocean University of Sri Lanka, focusing on marine mammal acoustics to study species in remote and hard-to-access marine environments. He previously worked as a Research Assistant at the University of Colombo School of Computing, where he contributed to a project on elephant infrasonic vocalisation detection. His research interests include bioacoustics, passive acoustic monitoring, and acoustic signal processing."
+%}
+
 <b>Former Members</b>
 
 <style>
