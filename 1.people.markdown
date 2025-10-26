@@ -24,6 +24,12 @@ permalink: /people/
    description="Chathura is currently serving as a scientific assistant at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Number Theory, Embedded Systems, Visible Light Communication, and File Systems. He contributes to the SCoRe lab in various capacities."
 %}
 
+{% include bio.html
+   photo="/assets/images/people/akila.jpeg"
+   name="Mr. Akila Shamendra Wickramasekara"
+   description="Akila is a PhD researcher in Digital Forensics at University College Dublin. His work focuses on integrating AI for digital forensic investigations.  His research interests are digital forensics and hardware security."
+%}
+
 <b>Former Members</b>
 
 <style>
