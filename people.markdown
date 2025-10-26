@@ -10,30 +10,35 @@ permalink: /people/
    photo="/assets/images/people/kasun.jpg"
    name="Prof. Kasun de Zoysa "
    description="Kasun is currently serves as the deputy director as well as the head of research at University of Colombo School of Computing, Sri Lanka. His research interests include Information Security, Cryptography, Digital Forensic, ICT4D, and 5G. He is the founder of the SCoRe lab, as well as its predecessor WASN lab at UCSC."
+   scholar="https://scholar.google.com/citations?user=fXFgCdsAAAAJ&hl=en"
 %}
 
 {% include bio.html
    photo="/assets/images/people/asanka.jpg"
    name="Dr. Asanka P. Sayakkara"
    description="Asanka is currently serving as a senior lecturer at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Hardware Security, and Side-Channel Analysis. He contributes to the SCoRe lab since 2010 in various capacities, and currently leading its administration."
+   scholar="https://scholar.google.com/citations?user=n8BELL8AAAAJ&hl=en"
 %}
 
 {% include bio.html
    photo="/assets/images/people/chathura.jpg"
    name="Mr. Chathura Prasan Suduwella"
    description="Chathura is currently serving as a scientific assistant at University of Colombo School of Computing, Sri Lanka. His research interests include Digital Forensics, Number Theory, Embedded Systems, Visible Light Communication, and File Systems. He contributes to the SCoRe lab in various capacities."
+   scholar="https://scholar.google.com/citations?user=weHYdUQAAAAJ&hl=en"
 %}
 
 {% include bio.html
    photo="/assets/images/people/akila.jpeg"
    name="Mr. Akila Shamendra Wickramasekara"
    description="Akila is a PhD researcher in Digital Forensics at University College Dublin. His work focuses on integrating AI for digital forensic investigations.  His research interests are digital forensics and hardware security."
+   scholar="https://scholar.google.com/citations?hl=en&user=Kw146WoAAAAJ"
 %}
 
 {% include bio.html
    photo="/assets/images/people/udayanga.jpeg"
    name="Mr. Udayanga Sampath"
    description="Udayanga Sampath is a PhD researcher at the Ocean University of Sri Lanka, focusing on marine mammal acoustics to study species in remote and hard-to-access marine environments. He previously worked as a Research Assistant at the University of Colombo School of Computing, where he contributed to a project on elephant infrasonic vocalisation detection. His research interests include bioacoustics, passive acoustic monitoring, and acoustic signal processing."
+   scholar="https://scholar.google.com/citations?hl=en&user=lPo900IAAAAJ"
 %}
 
 <b>Former Members</b>
