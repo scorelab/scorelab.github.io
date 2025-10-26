@@ -7,7 +7,7 @@ items:
   - title: "Passive Acoustic Monitoring"
     description: "Using sound as a way to remotely detect and monitor animals, such as birds, elephants, whales."
     image: "/assets/images/eloc-3-small.jpg"
-    url: "/research/"
+    url: "/research/passive-acoustics-monitoring"
 
   - title: "Hardware Security"
     description: "Exploitng computer systems through their hardware vulnerabilities for security and forensics purposes."

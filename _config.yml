@@ -54,3 +54,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# nav:
+#  - title: People
+#    url: /people/
+
+# Minima theme settings
+header_pages:
+  - people.markdown
+  - research.markdown
+  - publications.markdown
+  - history.markdown
+  - news.markdown
+

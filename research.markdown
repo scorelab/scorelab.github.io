@@ -1,0 +1,33 @@
+---
+layout: grid
+title: Research
+permalink: /research/
+items:
+
+  - title: "Passive Acoustic Monitoring"
+    description: "Using sound as a way to remotely detect and monitor animals, such as birds, elephants, whales."
+    image: "/assets/images/eloc-3-small.jpg"
+    url: "/research/passive-acoustics-monitoring"
+
+  - title: "Hardware Security"
+    description: "Exploitng computer systems through their hardware vulnerabilities for security and forensics purposes."
+    image: "/assets/images/iphone-hackrf-small.png"
+    url: "/research/hardware-security"
+
+  - title: "Digital Forensics"
+    description: "Acquisition of digital evidence from computing systems to assist corporate and legal investigations."
+    image: "/assets/images/digital-forensics.jpeg"
+    url: "/research/digital-forensics"
+
+  - title: "Quantum Computing"
+    description: "Ensuring security and privacy in computing systems in the post-quantum era with innovative solutions."
+    image: "/assets/images/quantum-computing-small.jpg"
+    url: "/research/quantum-computing"
+
+  - title: "Open Source Software"
+    description: "Contributing to the wider open source community with software solutions made for lower cost and sustainability."
+    image: "/assets/images/open-source-software.png"
+    url: "/research/open-source-software"
+
+---
+
